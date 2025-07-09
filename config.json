@@ -1,0 +1,21 @@
+{
+    "api_id": 1111111,
+    "api_hash": "11111111111111111111",
+    "bot_token": "11111111111111111111111111",
+    
+    "my_id": 1111111111111,
+    "technical_channel_id": -10011111111111111111,
+
+    "new_link": "http://t.me/111111111",
+    "new_username": "11111111111111",
+
+    "openai_api_key_gpt": "sk-11111111111111111111111111111111111",
+    "link_gpt": "https://api.openai.com/v1/chat/completions",
+
+    "openai_api_key_dalle": "sk-1111111111111111111111",
+    "link_dalle": "https://api.aiguoguo199.com/v1/images/generations",
+
+    "SAFE_MODE_LIMIT": 210,
+    "TIMEOUT": 10800
+  }
+  
